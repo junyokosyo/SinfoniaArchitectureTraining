@@ -16,7 +16,7 @@ MonoBehaviour:
   cost: 2
   maxHp: 100
   defense: 20
-  moveSpeed: 5
+  moveSpeed: 1
   attackPower: 20
   attackRange: 2
   attackInterval: 2
